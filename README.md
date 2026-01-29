@@ -1,6 +1,8 @@
 <h2 align="left">Hi there! I'm Dhruv Parihar </h2>
 
-<p align="left">An enthusiastic Web3 and Full-Stack Developer, crafting digital solutions in 🇮🇳 India</p>
+<p align="left">An enthusiastic Web3 and Full-Stack Developer, crafting digital solutions in 🇮🇳 India</p> 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=60B9F7&width=435&lines=Minimal+code.+Maximum+impact.)](https://git.io/typing-svg)
 
 ### 👨‍💻 About Me
 - 🔭 I'm currently working on 

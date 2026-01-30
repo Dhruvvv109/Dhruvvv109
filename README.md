@@ -45,7 +45,7 @@
 <!--START_SECTION:activity-->
 1. 🎉 Launched CredoPay
 2. 💪 Successfully integrated x402 and Coinbase SDK
-3. 🗣 Working on a mental health assessment app
+3. 🗣 Working on two domain-diverse applications, turning ideas into scalable products.
 <!--END_SECTION:activity-->
 
 <p align="left">

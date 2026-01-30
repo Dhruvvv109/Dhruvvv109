@@ -43,9 +43,9 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Launched CredoPay
+1. 🗣 Working on two domain-diverse applications, turning ideas into scalable products.
 2. 💪 Successfully integrated x402 and Coinbase SDK
-3. 🗣 Working on two domain-diverse applications, turning ideas into scalable products.
+3. 🎉 Launched CredoPay 
 <!--END_SECTION:activity-->
 
 <p align="left">

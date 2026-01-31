@@ -1,10 +1,10 @@
 <h2 align="left">Hi there! I'm Dhruv Parihar </h2>
 
+<img src="https://i.gifer.com/PcUC.gif" width="350" align="right" />
+
 <p align="left">An enthusiastic Web3 and Full-Stack Developer, crafting digital solutions in 🇮🇳 India</p> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=60B9F7&width=435&lines=Minimal+code.+Maximum+impact.)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="right" />
 
 ### 👨‍💻 About Me
 - 🔭 I'm currently working on App Dev
@@ -50,7 +50,11 @@
 2. 💪 Successfully integrated x402 and Coinbase SDK
 3. 🎉 Launched CredoPay 
 
----
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" align="centre" />
+
+
+
 
 <p align="center">
   <b>Thanks for visiting! 👋</b><br/>

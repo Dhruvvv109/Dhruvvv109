@@ -50,17 +50,17 @@
 2. 💪 Successfully integrated x402 and Coinbase SDK
 3. 🎉 Launched CredoPay 
 
+---
+
+<p align="center">
+  <b>Thanks for visiting! 👋</b><br/>
+  Let’s build the future together 🚀
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/3Xj0kRkFz4kAAAAC/thank-you.gif" width="260" />
+</p>
+
+
 
 <!--END_SECTION:activity-->
-
-
-
-
-
-
-
-
-
-
-
-

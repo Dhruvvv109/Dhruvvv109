@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=60B9F7&width=435&lines=Minimal+code.+Maximum+impact.)](https://git.io/typing-svg)
 ### 👨‍💻 About Me
-- 🔭 I'm currently working on 
+- 🔭 I'm currently working on App Dev
 - 🌱 Learning and growing in Blockchain
 - 💬 Ask me about React, JavaScript, Python, C++, HTML, CSS, Solidity
 - ⚡ Fun fact: A Football Player who Codes !!

@@ -40,7 +40,9 @@
   </a>
   <a href="https://www.linkedin.com/in/dhruv-parihar">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
-    [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhruvvv109.github.io/PortfolioM/)
+  <a href="https://dhruvvv109.github.io/PortfolioM/">
+  <img src="https://img.shields.io/badge/Portfolio-121D33?style=for-the-badge&logo=ethereum&logoColor=3C3C3D" />
+</a>
   </a>
 </div>
 
